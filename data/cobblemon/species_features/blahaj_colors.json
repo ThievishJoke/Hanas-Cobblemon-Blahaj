@@ -1,0 +1,22 @@
+{
+  "type": "choice",
+  "keys": [
+    "blahaj_colors"
+  ],
+  "default": "none",
+  "choices": [
+    "prismatic",
+    "minty",
+    "tangy",
+    "ultraviolet",
+    "toned",
+    "lace",
+    "heather",
+    "embroidered",
+    "kaleidoscope",
+    "monarch",
+    "whorl"
+  ],
+  "isAspect": true,
+  "aspectFormat": "blahaj-colors-{{choice}}"
+}

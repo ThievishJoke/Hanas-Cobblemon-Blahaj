@@ -1,0 +1,105 @@
+{
+  "species": "cobblemon:blahaj",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "blahaj-colors-prismatic"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_prismatic.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-minty"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_minty.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-tangy"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_tangy.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-ultraviolet"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_ultraviolet.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-toned"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_toned.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-lace"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_lace.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-heather"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_heather.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-embroidered"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_embroidered.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-kaleidoscope"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_kaleidoscope.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-monarch"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_monarch.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-whorl"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_whorl.png",
+      "layers": []
+    }
+  ]
+}
