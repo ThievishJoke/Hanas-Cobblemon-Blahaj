@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:blahaj",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_shiny.png"
+    }
+  ]
+}
