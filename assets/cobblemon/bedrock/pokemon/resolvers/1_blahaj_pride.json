@@ -100,6 +100,60 @@
       "model": "cobblemon:blahaj.geo",
       "texture": "cobblemon:textures/pokemon/blahaj/blahaj_whorl.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-aroace"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_aroace.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-null"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_null.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-pelopon"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_pelopon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-ringed"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_ringed.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-soft-pelopon"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_soft_pelopon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "blahaj-colors-soft-twilight"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_soft_twilight.png",
+      "layers": []
     }
   ]
 }

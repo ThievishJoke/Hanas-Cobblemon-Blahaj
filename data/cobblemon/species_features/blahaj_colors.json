@@ -15,7 +15,14 @@
     "embroidered",
     "kaleidoscope",
     "monarch",
-    "whorl"
+    "whorl",
+    "null",
+    "aroace",
+    "pelopon",
+    "twilight",
+    "soft_twilight",
+    "soft_pelopon",
+    "ringed"
   ],
   "isAspect": true,
   "aspectFormat": "blahaj-colors-{{choice}}"

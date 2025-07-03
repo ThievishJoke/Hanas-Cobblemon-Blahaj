@@ -75,11 +75,11 @@
       ]
     },
     {
-      "id": "blahaj_blahaj_minty",
+      "id": "blahaj_blahaj_ringed",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=minty",
+      "result": "blahaj blahaj_colors=ringed",
       "consumeHeldItem": false,
-      "requiredContext": "minecraft:light_blue_dye",
+      "requiredContext": "minecraft:yellow_dye",
       "learnableMoves": [],
       "requirements": [
         {
@@ -103,11 +103,25 @@
       ]
     },
     {
-      "id": "blahaj_blahaj_ultraviolet",
+      "id": "blahaj_blahaj_pelopon",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=ultraviolet",
+      "result": "blahaj blahaj_colors=pelopon",
       "consumeHeldItem": false,
-      "requiredContext": "minecraft:magenta_dye",
+      "requiredContext": "minecraft:lime_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_null",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=null",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:green_dye",
       "learnableMoves": [],
       "requirements": [
         {
@@ -131,11 +145,11 @@
       ]
     },
     {
-      "id": "blahaj_blahaj_lace",
+      "id": "blahaj_blahaj_minty",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=lace",
+      "result": "blahaj blahaj_colors=minty",
       "consumeHeldItem": false,
-      "requiredContext": "minecraft:white_dye",
+      "requiredContext": "minecraft:light_blue_dye",
       "learnableMoves": [],
       "requirements": [
         {
@@ -145,39 +159,11 @@
       ]
     },
     {
-      "id": "blahaj_blahaj_heather",
+      "id": "blahaj_blahaj_whorl",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=heather",
+      "result": "blahaj blahaj_colors=whorl",
       "consumeHeldItem": false,
-      "requiredContext": "minecraft:brown_dye",
-      "learnableMoves": [],
-      "requirements": [
-        {
-          "variant": "level",
-          "minLevel": 1
-        }
-      ]
-    },
-    {
-      "id": "blahaj_blahaj_embroidered",
-      "variant": "item_interact",
-      "result": "blahaj blahaj_colors=embroidered",
-      "consumeHeldItem": false,
-      "requiredContext": "minecraft:pink_dye",
-      "learnableMoves": [],
-      "requirements": [
-        {
-          "variant": "level",
-          "minLevel": 1
-        }
-      ]
-    },
-    {
-      "id": "blahaj_blahaj_kaleidoscope",
-      "variant": "item_interact",
-      "result": "blahaj blahaj_colors=kaleidoscope",
-      "consumeHeldItem": false,
-      "requiredContext": "minecraft:light_gray_dye",
+      "requiredContext": "minecraft:blue_dye",
       "learnableMoves": [],
       "requirements": [
         {
@@ -201,11 +187,123 @@
       ]
     },
     {
-      "id": "blahaj_blahaj_whorl",
+      "id": "blahaj_blahaj_ultraviolet",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=whorl",
+      "result": "blahaj blahaj_colors=ultraviolet",
       "consumeHeldItem": false,
-      "requiredContext": "minecraft:blue_dye",
+      "requiredContext": "minecraft:magenta_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_embroidered",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=embroidered",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:pink_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_lace",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=lace",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:white_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_kaleidoscope",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=kaleidoscope",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:light_gray_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_aroace",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=aroace",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:gray_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_twilight",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=twilight",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:black_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_heather",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=heather",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:brown_dye",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_soft_twilight",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=soft_twilight",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:ink_sac",
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    },
+    {
+      "id": "blahaj_blahaj_soft_pelopon",
+      "variant": "item_interact",
+      "result": "blahaj blahaj_colors=soft_pelopon",
+      "consumeHeldItem": false,
+      "requiredContext": "minecraft:kelp",
       "learnableMoves": [],
       "requirements": [
         {
