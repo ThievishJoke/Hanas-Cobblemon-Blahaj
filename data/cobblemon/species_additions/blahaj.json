@@ -287,7 +287,7 @@
     {
       "id": "blahaj_blahaj_soft_twilight",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=soft_twilight",
+      "result": "blahaj blahaj_colors=soft-twilight",
       "consumeHeldItem": false,
       "requiredContext": "minecraft:ink_sac",
       "learnableMoves": [],
@@ -301,7 +301,7 @@
     {
       "id": "blahaj_blahaj_soft_pelopon",
       "variant": "item_interact",
-      "result": "blahaj blahaj_colors=soft_pelopon",
+      "result": "blahaj blahaj_colors=soft-pelopon",
       "consumeHeldItem": false,
       "requiredContext": "minecraft:kelp",
       "learnableMoves": [],
