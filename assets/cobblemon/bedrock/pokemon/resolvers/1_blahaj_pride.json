@@ -103,6 +103,15 @@
     },
     {
       "aspects": [
+        "blahaj-colors-twilight"
+      ],
+      "poser": "cobblemon:blahaj",
+      "model": "cobblemon:blahaj.geo",
+      "texture": "cobblemon:textures/pokemon/blahaj/blahaj_twilight.png",
+      "layers": []
+    },
+    {
+      "aspects": [
         "blahaj-colors-aroace"
       ],
       "poser": "cobblemon:blahaj",
